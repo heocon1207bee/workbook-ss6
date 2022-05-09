@@ -1,0 +1,12 @@
+.productsList {
+    list-style-type: none;
+    border: 1px dotted gray;
+    padding: 1em;
+    border-radius: 5px;
+}
+
+.productsList img {
+    width: 70px;
+    height: auto;
+    margin: 1em 2em;
+}
