@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/workbook-ss6/static/css/main.0d0baa89.css",
+    "main.js": "/workbook-ss6/static/js/main.5b688bc0.js",
+    "index.html": "/workbook-ss6/index.html",
+    "main.0d0baa89.css.map": "/workbook-ss6/static/css/main.0d0baa89.css.map",
+    "main.5b688bc0.js.map": "/workbook-ss6/static/js/main.5b688bc0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d0baa89.css",
+    "static/js/main.5b688bc0.js"
+  ]
+}
